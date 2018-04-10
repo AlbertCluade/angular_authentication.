@@ -1,2 +1,2 @@
-# angular_authentication.
+# angular_authentication
 AngularJS_authentication
